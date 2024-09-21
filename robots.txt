@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iyzma.github.io/TCz/sitemap.TCz.gz
